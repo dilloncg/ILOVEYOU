@@ -1,0 +1,32 @@
+img{
+  max-width: 100%;
+}
+
+body{
+  margin: 0px;
+  background-image: url(weblink.png);
+  background-position: center;
+}
+
+p{
+  font-size: 40px;
+  color: red;
+}
+
+.button{
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(255, 100, 100);
+  background: rgb(255, 100, 100);
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.button:hover{
+  font-size: 20px;
+  text-align: center;
+  padding: 5px;
+  color: white;
+}
